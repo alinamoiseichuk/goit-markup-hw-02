@@ -1,6 +1,7 @@
 body {
 font-family: 'Roboto', sans-serif;  
 color:#2E2F42; 
+background: #FFF;
 }
 
 .list {
@@ -16,7 +17,7 @@ list-style-type: none;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -26,15 +27,16 @@ color:#2E2F42;
 font-family: 'Raleway', sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 1.16; 
+line-height: 1.17; 
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 
 .menu-link {
+color:#2E2F42;
 font-size: 16px;
 font-weight: 500;
-line-height: 0.66; 
+line-height: 1.15; 
 letter-spacing: 0.02em; 
 }
 
@@ -48,8 +50,9 @@ letter-spacing: 0.02em;
 }
 
 .contacts {
+color:#2E2F42;
 font-size: 16px;
-line-height: 0.66;
+line-height: 1.50;
 letter-spacing: 0.02em;
 font-style: normal;
 }
@@ -59,7 +62,7 @@ font-style: normal;
 color:#404BBF;
 font-size: 16px;
 font-weight: 400;
-line-height: 0.66; 
+line-height: 1.50; 
 letter-spacing: 0.02em;
 }
 
@@ -72,7 +75,7 @@ color:#FFF;
 text-align: center;
 font-size: 56px;
 font-weight: 700;
-line-height: 1.15;
+line-height: 1.07;
 letter-spacing: 0.02em;
 }
 
@@ -103,6 +106,7 @@ box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 
 .benefits-list-title {
+color:#2E2F42;
 font-size: 20px;
 font-weight: 500;
 line-height: 0.83;
@@ -110,7 +114,6 @@ letter-spacing: 0.02em;
 }
 
 .benefits-list-item {
-color:#434455;
 font-size: 16px;
 font-weight: 400;
 line-height: 0.06;
@@ -122,6 +125,7 @@ background:#F4F4FD;
 }
 
 .team-title {
+color:#2E2F42;
 text-align: center;
 font-size: 36px;
 font-weight: 700;
@@ -137,20 +141,21 @@ box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47,
 }
 
 .team-list-title {
+color:#2E2F42;
 font-size: 20px;
 font-weight: 500;
 line-height: 0.83;
 letter-spacing: 0.02em;
 }
 
-.team-list-item {
-color:#434455;
+.team-list-item 
 font-size: 16px;
 line-height: 0.66; 
 letter-spacing: 0.02em;
 }
 
 .portfolio-title {
+color:#2E2F42;
 text-align: center;
 font-size: 36px;
 font-weight: 700;
@@ -165,6 +170,7 @@ background:#FFF;
 }
 
 .portfolio-list-title {
+color:#2E2F42;
 font-size: 20px;
 font-weight: 500;
 line-height: 0.83;
@@ -172,7 +178,6 @@ letter-spacing: 0.02em;
 }
 
 .portfolio-list-item {
-color: #434455;
 font-size: 16px;
 font-weight: 400;
 line-height: 0.66; 
